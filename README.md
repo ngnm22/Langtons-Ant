@@ -4,8 +4,7 @@ references: https://www.educba.com/decimal-to-hexadecimal-in-c/
 
 ![ant](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CA3061-81k7.png/1024px-CA3061-81k7.png)
 
-Langton's ant is a two-dimensional [universal Turing machine](https://web.mit.edu/manoli/turing/www/turing.html) that can demonstrate complex emergent behavior based on a very simple set of rules. First created by Chris Langton in 1986, Langton's ant runs on a square lattice of black and white cells. In this coursework, you will implement a generalisation of Langton's ant in C.
-
+Langton's ant is a two-dimensional [universal Turing machine](https://web.mit.edu/manoli/turing/www/turing.html) that can demonstrate complex emergent behavior based on a very simple set of rules. First created by Chris Langton in 1986, Langton's ant runs on a square lattice of black and white cells. This project is an implementation of Langton's Ant in C.
 ## Background
 
 The original Langton's ant progresses by colouring squares on a plane either black or white. One square is first determined to be the "ant" arbitrarily. This ant can then travel in any of the four cardinal directions at each iteration (step) of the game. The movement of the ant is controlled by the following simple rules:
